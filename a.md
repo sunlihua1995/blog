@@ -1,4 +1,4 @@
-[quote="moling, post:1, topic:1496, full:true"]
+
 高效命令行
 
 基本单词
